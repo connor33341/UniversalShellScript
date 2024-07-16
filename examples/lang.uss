@@ -1,0 +1,7 @@
+# USS LANG REFRENCE
+# Stuff was written here in uss format
+# then code was written to make it work
+
+# Dir minipulation
+Dir:Mkdir("test")
+Dir:Cdir("test")
